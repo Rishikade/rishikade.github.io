@@ -24,5 +24,5 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (apna link daal yaha)  
+- LinkedIn: www.linkedin.com/in/rishika-de-1a881b259  
 - GitHub: https://github.com/Rishikade
