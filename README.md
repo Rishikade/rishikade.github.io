@@ -18,8 +18,8 @@
 ---
 
 ## 🚀 Projects
-- 🌿 Leaf Disease Detection using Machine Learning  
-- 📊 Data Analysis Projects  
+- AI/ML Projects  
+- Data Analysis Projects  
 
 ---
 
