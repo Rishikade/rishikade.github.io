@@ -1,118 +1,122 @@
 # Hi 👋, I'm Rishika De
 
-### Aspiring AI/ML Engineer • Data Scientist • Python Developer
+### 🚀 Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 
 🎓 Electronics & Communication Engineering Student
 
-📊 Passionate about Data Science, Machine Learning, AI, NLP, and Analytics
+📊 Passionate about Data Science, Machine Learning, Artificial Intelligence, NLP, and Analytics
 
-🐍 Python Developer focused on building real-world AI applications
-
----
-
-## 🚀 About Me
-
-I'm an Electronics & Communication Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, Data Analytics, and Python Development.
-
-I enjoy solving real-world problems using data, developing intelligent applications, and transforming raw data into actionable insights.
-
-Currently exploring:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Analytics
-- 🧠 Natural Language Processing (NLP)
-- 🐍 Python Development
-- 📈 Data Visualization & Business Insights
-- 🚀 Generative AI Applications
+💡 Building real-world AI applications and data-driven solutions using Python
 
 ---
 
-## 🛠️ Skills
+## 👩‍💻 About Me
+
+* 🎓 B.Tech in Electronics & Communication Engineering
+* 📈 Interested in Data Science, Machine Learning, NLP, and Generative AI
+* 🐍 Strong foundation in Python, SQL, Data Analysis, and Visualization
+* 🚀 Building end-to-end AI projects with deployment
+* 🎯 Actively seeking opportunities in AI/ML, Data Science, Analytics, and Python Development
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming
-- Python
-- SQL
+
+* Python
+* SQL
 
 ### Data Science & Analytics
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
+
+* Pandas
+* NumPy
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
 
 ### Machine Learning & AI
-- Scikit-Learn
-- Natural Language Processing (NLP)
-- Hugging Face Transformers
-- Sentiment Analysis
-- Generative AI
+
+* Scikit-Learn
+* Natural Language Processing (NLP)
+* Hugging Face Transformers
+* Sentiment Analysis
+* Generative AI
 
 ### Visualization & Dashboarding
-- Plotly
-- Matplotlib
-- Streamlit
+
+* Plotly
+* Matplotlib
+* Streamlit
 
 ### Databases
-- SQLite
-- MySQL
+
+* SQLite
+* MySQL
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
-## 📌 Featured Project
+# 🚀 Featured Project
 
-### 📊 Real-Time Sentiment Analysis Dashboard
+## 📊 Real-Time Sentiment Analysis Dashboard
 
-Developed a real-time NLP dashboard that fetches live news data, performs sentiment analysis using Hugging Face Transformers, stores results in SQLite, and visualizes insights through interactive dashboards.
+Developed a real-time NLP dashboard that fetches live news data, performs sentiment analysis using transformer-based models, stores results in SQLite, and visualizes insights through interactive dashboards.
 
-Tech Stack:
-Python • Streamlit • Hugging Face Transformers • NewsAPI • SQLite • Plotly • WordCloud
+### Features
 
-GitHub:
+✅ Live News Sentiment Analysis
+
+✅ Interactive Plotly Charts
+
+✅ Word Cloud Generation
+
+✅ SQLite Database Integration
+
+✅ Streamlit Deployment
+
+### Tech Stack
+
+Python • Streamlit • Hugging Face Transformers • NewsAPI • Plotly • SQLite • WordCloud
+
+🔗 GitHub Repository:
 https://github.com/Rishikade/real-time-sentiment-dashboard
 
-Live Demo:
+🔗 Live Demo:
 https://real-time-sentiment-dashboard-rishika.streamlit.app/
 
 ---
 
-## 🎯 Career Interests
+## 🎯 Current Focus
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Data Analytics
-- Business Intelligence
-- Python Development
-- NLP Engineering
+* Building AI & Data Science Projects
+* Learning Advanced Machine Learning
+* Exploring NLP & Generative AI
+* Strengthening Data Analytics Skills
+* Preparing for Data Science & AI Roles
 
 ---
 
-## 📈 Current Focus
+## 🌱 Upcoming Projects
 
-🔹 Building end-to-end AI and Data Science projects
-
-🔹 Strengthening Machine Learning and NLP skills
-
-🔹 Learning advanced Data Analytics and Visualization
-
-🔹 Preparing for AI/ML, Data Science, and Python Developer roles
+* Customer Churn Prediction
+* House Price Prediction
+* Stock Market Prediction using LSTM
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: rishika.de11956@gmail.com
+📧 Email: [rishika.de11956@gmail.com](mailto:rishika.de11956@gmail.com)
 
 🐙 GitHub: https://github.com/Rishikade
 
 💼 LinkedIn: www.linkedin.com/in/rishika-de
-
 
 
 ---
